@@ -5,8 +5,6 @@
 ![JavaScript](https://img.shields.io/github/languages/top/OlhaBalahush/bomberman)
 
 
-* [audit questions](https://github.com/01-edu/public/tree/master/subjects/bomberman-dom/audit)
-
 ## Objectives
 
 The primary objectives of this project include:
@@ -16,7 +14,6 @@ The primary objectives of this project include:
 - Implement a chat system using WebSockets.
 - Follow the framework developed in the mini-framework project.
 - Incorporate power-ups, destructible blocks, and fixed walls in the game map.
-
 
 
 ### Players
@@ -79,11 +76,9 @@ npm install
 npm run start
 ```
 
-Then playing the game you might be comfused by the movement: <br>
-the movement is grid based and in order to meet the requirement of having a speed power up, your movemnt is limited to once every 0,35 seconds... unless you find some powerups hidden in the walls.
 
 ## Authors
-* [Gert Nõgene](https://01.kood.tech/git/Gert)
+* [Gert Nõgene](https://github.com/GitGert/)
 * [Karme Bärg](https://01.kood.tech/git/Karme)
 * [Elena Khaletska](https://01.kood.tech/git/ekhalets)
 * [Olha Balahush](https://01.kood.tech/git/Olya)
